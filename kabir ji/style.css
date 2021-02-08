@@ -188,6 +188,29 @@ img{
         transform: translateX(25px);
     }
 }
+.section-title{
+    padding: 0 15px;
+    flex: 0 0 100%;
+    max-width: 100%;
+    text-align: center;
+    margin-bottom: 60px;
+}
+.section-title h2{
+    display: inline-block;
+    font-size: 30px;
+    font-weight: 700;
+    color: var(--text-black-900);
+    text-transform: uppercase;
+    margin: 0;
+
+}
+.section-title h2::before{
+    content: attr(data-heading);
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--skin-color);
+}
 /*****************effect end**********/
 /*****************header**********/
 .header{
@@ -351,6 +374,7 @@ img{
     font-size: 18px;
     font-weight: 700;
     margin: 0;
+    padding-left: 12px;
     
 }
 .home-section .home-text h2{
@@ -376,3 +400,82 @@ img{
     padding: 15px;
 }
 /*****************home section end**********/
+.about-section{
+    padding: 80px 0 80px;
+    min-height: 100vh;
+}
+.about-section .about-img{
+    flex: 0 0 40%;
+    max-width: 40%;
+    padding: 0 15px;
+}
+.about-section .about-img .img-box img{
+    width: 100%;
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+.about-section .about-info{
+    flex: 0 0 60%;
+    max-width: 60%;
+    padding: 0 15px;
+}
+.about-section .about-info p{
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 15px;
+    color: var(--text-black-600);
+
+}
+.about-section .about-info span{
+    font-weight: 600;
+}
+.about-section .about-info .btn-1{
+    max-resolution: 30px 20px 0 0;
+}
+.about-section .about-img .social-links{
+    margin-top: 20px;
+    text-align: center;
+}
+.about-section .about-img .social-links a{
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    font-size: 16px;
+    text-align: center;
+    line-height: 40px;
+    color: var(--text-black-600);
+    margin: 0 4px;
+    border-radius: 50%;
+    transform: all 0.3s ease;
+}
+.about-section .about-img .social-links a::after
+{
+    border-radius: 50%;
+}
+.about-section .about-img .social-links a:hover{
+    color: var(--skin-color);
+}
+.about-section .about-tabs{
+    padding: 60px 15px 50px;
+    flex: 0 0 100%;
+    max-width: 100%;
+    text-align: center;
+}
+.about-section .about-tabs .tab-item{
+    display: inline-block;
+    margin: 0 5px 10px;
+    padding: 5px 10px;
+    border-radius: 30px;
+    transform: all 0.3s ease;
+    font-size: 16px;
+    color: var(--text-black-600);
+    font-weight: 500;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+.about-section .about-tabs .tab-item:hover:not(.active){
+    opacity: 0.6;
+}
+.about-section .about-tabs .tab-item.active{
+    color: var(--skin-color);
+}
