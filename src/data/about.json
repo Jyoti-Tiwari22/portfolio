@@ -1,0 +1,113 @@
+{
+    "socialLinks": {
+        "github": "https://github.com/Jyoti-Tiwari22",
+        "linkedin": "https://www.linkedin.com/in/jyoti-tiwari-a242471aa"
+    },
+    "aboutInfo": {
+        "name": "Jyoti Tewari",
+        "degree": "Post-Graduate",
+        "university": "Dev Bhoomi",
+        "bachelorDegree": "Computer Application",
+        "bachelorUniversity": "Guru Jambheshwar University, Hisar",
+        "experience": " 3 years",
+        "familyMembers": 4
+    },
+    "skills": [
+        {
+            "name": "Html",
+            "percentage": 80
+        },
+        {
+            "name": "CSS",
+            "percentage": 70
+        },
+        {
+            "name": "Bootstrap",
+            "percentage": 70
+        },
+        {
+            "name": "TailwindCSS",
+            "percentage": 70
+        },
+        {
+            "name": "JavaScript",
+            "percentage": 60
+        },
+        {
+            "name": "ReactJs",
+            "percentage": 70
+        },
+        {
+            "name": "Golang",
+            "percentage": 60
+        },
+        {
+            "name": "MySql",
+            "percentage": 60
+        }
+    ],
+    "experience": [
+        {
+            "position": "Full-Stack Developer",
+            "company": "SAS Proaplicaciones",
+            "startDate": "01/12/2021",
+            "endDate": "Present",
+            "description": "Created an API, Wrote code to take data from database and generate MD files using gorm. Managed database. Leading the Colman team on the regeneration of the MD files."
+        },
+        {
+            "position": "Front-end Developer",
+            "company": "Tutree, India",
+            "startDate": "01/04/2020",
+            "endDate": "30/11/2020",
+            "description": "Creating new features, functionality, and capability on the sites using HTML, CSS, JavaScript, and Bootstrap. Implemented websites, mobile applications, and landing pages from concept through deployment."
+        },
+        {
+            "position": "Intern Front-end Developer",
+            "company": "Tutree, India",
+            "startDate": "01/01/2020",
+            "endDate": "30/11/2020",
+            "description": "Worked as an Intern and implemented a new responsive, mobile-first approach which increased mobile traffic by 20%."
+        },
+        {
+            "position": "Intern Front-end Developer",
+            "company": "Henry harvin education, India",
+            "startDate": "27/09/2019",
+            "endDate": "27/12/2019",
+            "description": "Collaborated with product team members to implement new feature developments."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master in Computer Application",
+            "university": "Dev Bhoomi Group Of Institutions And Technology",
+            "startDate": "2020",
+            "endDate": "2022",
+            "description": "Web Technology, Python, C"
+        },
+        {
+            "degree": "Bachelor of Computer Application",
+            "university": "Guru Jambheshwar University, Hisar, India",
+            "startDate": "2016",
+            "endDate": "2019",
+            "description": "Computer Fundamentals, Database Management Systems, Object-Oriented Programming, Operating System"
+        },
+        {
+            "degree": "Diploma In Management And Technology (DMIT)",
+            "university": "International Institute Of Management, Media And IT",
+            "startDate": "2017",
+            "endDate": "2020"
+        },
+        {
+            "degree": "12th",
+            "university": "Government Inter College Chaukhutia, Almora, Uttrakhand, India",
+            "startDate": "2014",
+            "endDate": "2015"
+        },
+        {
+            "degree": "10th",
+            "university": "DDC Memorial Public School Dhikuli, Ramnagar Nanital",
+            "startDate": "2012",
+            "endDate": "2013"
+        }
+    ]
+}

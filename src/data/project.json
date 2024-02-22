@@ -1,0 +1,119 @@
+[
+    {
+        "id": 1,
+        "images": [
+            {
+                "type": "image",
+                "src": "/images/cImage2.png"
+            },
+            {
+                "type": "image",
+                "src": "/images/cImage1.png"
+            },
+            {
+                "type": "image",
+                "src": "/images/cImage3.png"
+            },
+            {
+                "type": "image",
+                "src": "/images/cImage4.png"
+            },
+            {
+                "type": "image",
+                "src": "/images/cImage5.png"
+            },
+            {
+                "type": "image",
+                "src": "/images/cImage6.png"
+            },
+            {
+                "type": "image",
+                "src": "/images/cImage7.png"
+            },
+            {
+                "type": "image",
+                "src": "/images/cImage8.png"
+            },
+            {
+                "type": "image",
+                "src": "/images/cImage9.png"
+            }
+        ],
+        "info": {
+            "title": "ChatBot AI",
+            "date": "2023",
+            "tools": "ROR, CSS",
+            "role": "Front-end Developer"
+        }
+    },
+    {
+        "id": 2,
+        "images": [
+            {
+                "type": "video",
+                "src": "/images/parse.webm"
+            }
+        ],
+        "info": {
+            "date": "2022",
+            "tools": "ReactJS, TailwindCSS",
+            "role": "Front-end Developer"
+        }
+    },
+    {
+        "id": 3,
+        "images": [
+            {
+                "type": "video",
+                "src": "/images/colman.webm"
+            }
+        ],
+        "info": {
+            "date": "2022",
+            "tools": "Golang, Hugo, MySQL",
+            "role": "Full-Stack Developer"
+        }
+    },
+    {
+        "id": 4,
+        "images": [
+            {
+                "type": "video",
+                "src": "/images/donor.webm"
+            }
+        ],
+        "info": {
+            "date": "2023",
+            "tools": "ReactJS, Bootstrap",
+            "role": "Full-Stack Developer"
+        }
+    },
+    {
+        "id": 5,
+        "images": [
+            {
+                "type": "image",
+                "src": "/images/jobsdive.jpeg"
+            }
+        ],
+        "info": {
+            "date": "2019",
+            "tools": "HTML, Bootstrap",
+            "role": "Front-end Developer"
+        }
+    },
+    {
+        "id": 6,
+        "images": [
+            {
+                "type": "image",
+                "src": "/images/tutree.jpeg"
+            }
+        ],
+        "info": {
+            "date": "2019",
+            "tools": "ReactJS, Bootstrap",
+            "role": "Front-end Developer"
+        }
+    }
+]
