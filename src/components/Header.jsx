@@ -37,27 +37,27 @@ function Header() {
         <div className="nav-menu-inner">
           <ul>
             <li>
-              <a href="#home" className="link-item inner-shadow active">
+              <a href="#home" className="link-item inner-shadow active" onClick={toggleMenu}>
                 Home
               </a>
             </li>
             <li>
-              <a href="#about" className="link-item outer-shadow hover-in-shadow">
+              <a href="#about" className="link-item outer-shadow hover-in-shadow" onClick={toggleMenu}>
                 about us
               </a>
             </li>
             <li>
-              <a href="#services" className="link-item outer-shadow hover-in-shadow">
+              <a href="#services" className="link-item outer-shadow hover-in-shadow" onClick={toggleMenu}>
                 services
               </a>
             </li>
             <li>
-              <a href="#portfolio" className="link-item outer-shadow hover-in-shadow">
+              <a href="#portfolio" className="link-item outer-shadow hover-in-shadow" onClick={toggleMenu}>
                 portfolio
               </a>
             </li>
             <li>
-              <a href="#contact" className="link-item outer-shadow hover-in-shadow">
+              <a href="#contact" className="link-item outer-shadow hover-in-shadow" onClick={toggleMenu}>
                 contact
               </a>
             </li>

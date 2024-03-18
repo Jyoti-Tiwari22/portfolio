@@ -42,7 +42,7 @@
         "info": {
             "title": "ChatBot AI",
             "date": "2023",
-            "tools": "ROR, CSS",
+            "tools": "ReactJS, CSS",
             "role": "Front-end Developer"
         }
     },
@@ -70,8 +70,8 @@
         ],
         "info": {
             "date": "2022",
-            "tools": "Golang, Hugo, MySQL",
-            "role": "Full-Stack Developer"
+            "tools": "ReactJS, Golang, MySQL",
+            "role": "Front-end Developer"
         }
     },
     {
@@ -85,7 +85,7 @@
         "info": {
             "date": "2023",
             "tools": "ReactJS, Bootstrap",
-            "role": "Full-Stack Developer"
+            "role": "Front-end Developer"
         }
     },
     {

@@ -20,10 +20,10 @@ const ProjectCarousel = ({ media }) => {
         <div key={index}>
           {file.type === 'video' ? (
             <video controls width="100%">
-              <source src={process.env.PUBLIC_URL + file.src} type="video/mp4" />
+              <source src={file.src} type="video/mp4" />
             </video>
           ) : (
-            <img src={process.env.PUBLIC_URL + file.src} alt={`Slide ${index}`} style={{ width: '100%' }} />
+            <img src={file.src} alt={`Slide ${index}`} style={{ width: '100%' }} />
           )}
         </div>
       ))}

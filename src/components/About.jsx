@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import aboutData from "../data/about.json";
 import { BrowserRouter as Router, Link } from "react-router-dom";
 import imageSrc from "../assets/images/image2.jpeg"
+import pdfSrc from "../assets/pdf/resume3.pdf"
 
 const About = () => {
   const {
@@ -64,7 +65,7 @@ const About = () => {
                                 believer in the mobile-first approach. Implemented new responsive website approach which increased
                                 mobile traffic by 20%.
                             </p>
-                            <a href={`${process.env.PUBLIC_URL}/resume3.pdf`}
+                            <a href={pdfSrc}
                                 download="JyotiTewari.pdf"
                                 className="btn-1 outer-shadow hover-in-shadow"
                                 >

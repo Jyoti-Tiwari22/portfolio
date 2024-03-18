@@ -158,8 +158,8 @@ img {
     width: 180px;
     border: 25px solid var(--skin-color);
     border-radius: 50%;
-    left: 50%;
-    top: -120px;
+    left: 40%;
+    top: -23px;
     animation: leftbounce 3s ease-in-out infinite;
 }
 
@@ -308,7 +308,8 @@ img {
 /*****************header**********/
 .header {
     padding: 20px 15px;
-    position: absolute;
+    position: fixed;
+    background-color: var(--bg-black-50);
     width: 100%;
     top: 0;
     left: 0;
@@ -1369,7 +1370,7 @@ img {
     }
 
     .effect-3 {
-        margin-left: -60%;
+        display: none;
     }
 
     .effect-4 {
