@@ -1474,3 +1474,10 @@ img {
         top: 16%;
     }
 }
+
+.alignLeft {
+    text-align: left;
+}
+.margintop {
+    margin-top: 4rem;
+}

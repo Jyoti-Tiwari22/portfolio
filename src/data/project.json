@@ -1,119 +1,128 @@
 [
-    {
-        "id": 1,
-        "images": [
-            {
-                "type": "image",
-                "src": "/images/cImage2.png"
-            },
-            {
-                "type": "image",
-                "src": "/images/cImage1.png"
-            },
-            {
-                "type": "image",
-                "src": "/images/cImage3.png"
-            },
-            {
-                "type": "image",
-                "src": "/images/cImage4.png"
-            },
-            {
-                "type": "image",
-                "src": "/images/cImage5.png"
-            },
-            {
-                "type": "image",
-                "src": "/images/cImage6.png"
-            },
-            {
-                "type": "image",
-                "src": "/images/cImage7.png"
-            },
-            {
-                "type": "image",
-                "src": "/images/cImage8.png"
-            },
-            {
-                "type": "image",
-                "src": "/images/cImage9.png"
-            }
-        ],
-        "info": {
-            "title": "ChatBot AI",
-            "date": "2023",
-            "tools": "ReactJS, CSS",
-            "role": "Front-end Developer"
-        }
-    },
-    {
-        "id": 2,
-        "images": [
-            {
-                "type": "video",
-                "src": "/images/parse.webm"
-            }
-        ],
-        "info": {
-            "date": "2022",
-            "tools": "ReactJS, TailwindCSS",
-            "role": "Front-end Developer"
-        }
-    },
-    {
-        "id": 3,
-        "images": [
-            {
-                "type": "video",
-                "src": "/images/colman.webm"
-            }
-        ],
-        "info": {
-            "date": "2022",
-            "tools": "ReactJS, Golang, MySQL",
-            "role": "Front-end Developer"
-        }
-    },
-    {
-        "id": 4,
-        "images": [
-            {
-                "type": "video",
-                "src": "/images/donor.webm"
-            }
-        ],
-        "info": {
-            "date": "2023",
-            "tools": "ReactJS, Bootstrap",
-            "role": "Front-end Developer"
-        }
-    },
-    {
-        "id": 5,
-        "images": [
-            {
-                "type": "image",
-                "src": "/images/jobsdive.jpeg"
-            }
-        ],
-        "info": {
-            "date": "2019",
-            "tools": "HTML, Bootstrap",
-            "role": "Front-end Developer"
-        }
-    },
-    {
-        "id": 6,
-        "images": [
-            {
-                "type": "image",
-                "src": "/images/tutree.jpeg"
-            }
-        ],
-        "info": {
-            "date": "2019",
-            "tools": "ReactJS, Bootstrap",
-            "role": "Front-end Developer"
-        }
+  {
+    "id": 1,
+    "images": [
+      {
+        "type": "video",
+        "src": "/images/mosspark.mov"
+      }
+    ],
+    "info": {
+      "title": "Lumedot Book Reader App",
+      "tools": " React.js, Nextjs, Redux, Tailwind CSS, CI/CD Pipeline",
+      "role": "Front-end Developer"
     }
+  },
+  {
+    "id": 2,
+    "images": [
+      {
+        "type": "image",
+        "src": "/images/cImage2.png"
+      },
+      {
+        "type": "image",
+        "src": "/images/cImage1.png"
+      },
+      {
+        "type": "image",
+        "src": "/images/cImage3.png"
+      },
+      {
+        "type": "image",
+        "src": "/images/cImage4.png"
+      },
+      {
+        "type": "image",
+        "src": "/images/cImage5.png"
+      },
+      {
+        "type": "image",
+        "src": "/images/cImage6.png"
+      },
+      {
+        "type": "image",
+        "src": "/images/cImage7.png"
+      },
+      {
+        "type": "image",
+        "src": "/images/cImage8.png"
+      },
+      {
+        "type": "image",
+        "src": "/images/cImage9.png"
+      }
+    ],
+    "info": {
+      "title": "ChatBot AI",
+      "tools": "React.js, Redux, OpenAI API, JavaScript, Postgres",
+      "role": "Front-end Developer"
+    }
+  },
+  {
+    "id": 3,
+    "images": [
+      {
+        "type": "video",
+        "src": "/images/parse.webm"
+      }
+    ],
+    "info": {
+      "tools": "ReactJS, TailwindCSS",
+      "role": "Front-end Developer"
+    }
+  },
+  {
+    "id": 4,
+    "images": [
+      {
+        "type": "video",
+        "src": "/images/colman.webm"
+      }
+    ],
+    "info": {
+      "title": "Colman",
+      "tools": "Golang, Hugo, MySQL, REST APIs, CSS",
+      "role": "Full-stack Developer"
+    }
+  },
+  {
+    "id": 5,
+    "images": [
+      {
+        "type": "video",
+        "src": "/images/donor.webm"
+      }
+    ],
+    "info": {
+      "tools": "ReactJS, Bootstrap",
+      "role": "Front-end Developer"
+    }
+  },
+  {
+    "id": 6,
+    "images": [
+      {
+        "type": "image",
+        "src": "/images/jobsdive.jpeg"
+      }
+    ],
+    "info": {
+      "tools": "HTML, Bootstrap",
+      "role": "Front-end Developer"
+    }
+  },
+  {
+    "id": 6,
+    "images": [
+      {
+        "type": "image",
+        "src": "/images/tutree.jpeg"
+      }
+    ],
+    "info": {
+      "tools": "ReactJS, Bootstrap",
+      "role": "Front-end Developer"
+    }
+  }
 ]
